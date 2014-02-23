@@ -18,7 +18,7 @@ A *responsive* image manipulation suite using PHP (with the GD library) and jQue
 
 ###USE###
 1. Load the whole PHPImager folder somewhere in your filesystem. 
-2. Add the js script to your project, right before the </body> tag.
+2. Add the js script to your project, right before the ```</body>``` tag.
 				<script type="text/javascript" src="path_to_folder/PHPImager.js"></script>
 3.In the PHPImager.js file at the very beginning you will find 2 variables: 
 				var finished_width = 100;
