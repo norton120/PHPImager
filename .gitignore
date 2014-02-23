@@ -1,0 +1,10 @@
+.metadata
+*.tmp
+*.bak
+.settings/
+.launch
+.buildpath
+*pydevproject
+.sass-cache/
+old_website/
+.ignoreme/*
